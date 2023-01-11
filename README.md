@@ -1,2 +1,2 @@
 # Cryptography
-![image](https://user-images.githubusercontent.com/112752216/211851551-2cd2f5d0-b9d3-49c3-981e-5b2aa1801a1a.png)
+![image](https://user-images.githubusercontent.com/112752216/211851944-c3a07335-f2a7-4a1d-8136-8445f59de87f.png)
